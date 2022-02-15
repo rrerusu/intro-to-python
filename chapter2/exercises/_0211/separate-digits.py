@@ -1,4 +1,4 @@
-# exercise 02 - 12
+# exercise 02 - 11
 """Seperate digits of input number"""
 number = input("Enter number: ")
 
