@@ -1,3 +1,6 @@
+# exercise 3.13
+'''Determine factorial of 10, 20, and 30'''
+
 def calcFactorial(number):
     '''Calculate the factorial of a number'''
     factorial = 1
