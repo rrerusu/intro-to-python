@@ -1,7 +1,7 @@
 # exercise 03 - 14
 '''Approximate the digits of pi'''
 
-def approximatePi():
+def approximate_pi():
     pi = 0 
     for i in range(1, 1000):
         pi += ((-1) ** (i + 1)) * 4 / (2 * i - 1)
@@ -10,4 +10,4 @@ def approximatePi():
             pi)
         )
 
-approximatePi()
+approximate_pi()
